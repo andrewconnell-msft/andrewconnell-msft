@@ -1,0 +1,41 @@
+## Hi, I'm Andrew 👋🏼
+
+> 👉 NOTE: this is a utility/proxy GitHub account - please see [@andrewconnell](/andrewconnell) or [@voitanos](/voitanos) for my primary accounts on Github
+
+I'm is a web developer with a focus on Microsoft Azure & Microsoft 365. I've received Microsoft’s MVP award every year since 2005 & has helped thousands of developers through the various courses I've authored & taught.
+
+I'm the founder of [Voitanos](https://www.voitanos.io) and is dedicated to delivering industry-leading on-demand video training to professional developers.
+
+I live with my wife & two kids in Florida.
+
+[![](./images/rss.svg)](https://www.andrewconnell.com)
+[![](./images/mvp.svg)](https://mvp.microsoft.com/en-us/PublicProfile/21083?fullName=Andrew%20Connell)
+[![](./images/twitter.svg)](https://www.twitter.com/andrewconnell)
+[![](./images/linkedin.svg)](https://www.linkedin.com/in/andrewconnell)
+[![](./images/github.svg)](https://www.github.com/andrewconnell)
+[![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1)
+[![](./images/youtube.svg)](https://www.youtube.com/user/jaconnell)
+
+## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
+<!-- MYBLOG-POST-LIST:START -->
+- Aug 31, 2021 - [Back to school! Time to modernize those SPFx projects!](https://www.andrewconnell.com/blog/modernize-your-sharepoint-framework-projects/)
+- Jul 13, 2021 - [Fix the &quot;can&#39;t find custom rule directory: tslint-microsoft-contrib&quot; error in SPFx projects](https://www.andrewconnell.com/blog/spfx-fix-cant-find-custom-rule-directory-tslint-microsoft-contrib/)
+- Jul 7, 2021 - [Update to my Azure Pipelines Templates for SPFx Projects &lpar;v1.3.0&rpar;](https://www.andrewconnell.com/blog/azure-pipeline-spfx-template-1-4/)
+- Jul 5, 2021 - [Microsoft MVP Renewed 17th Year](https://www.andrewconnell.com/blog/microsoft-mvp-renewed-17th-year/)
+- Jul 5, 2021 - [Mastering SharePoint Framework Code Refresh + new React Hooks demo](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-code-refresh-react-hooks/)<!-- MYBLOG-POST-LIST:END -->
+
+## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
+<!-- VOITANOSBLOG-POST-LIST:START -->
+- Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
+- Oct 11, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.voitanos.io/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)
+- Aug 31, 2021 - [Get answers to your SharePoint Framework questions](https://www.voitanos.io/blog/get-answers-sharepoint-framework-questions/)
+- Aug 24, 2021 - [Optimize bundles by disabling IE11 support in SPFx projects](https://www.voitanos.io/blog/optimize-spfx-bundles-ditch-ie11-support/)
+- Aug 17, 2021 - [State of SharePoint Client Side Development | August 2021](https://www.voitanos.io/blog/state-of-sharepoint-client-side-dev-2021-august/)<!-- VOITANOSBLOG-POST-LIST:END -->
+
+## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
+<!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
+- Dec 14, 2021 - [AWS&#39;s Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.microsoftcloudshow.com/podcast/Episodes/438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)
+- Dec 7, 2021 - [AWS re:Invent Recap](https://www.microsoftcloudshow.com/podcast/Episodes/437-aws-reinvent-recap/)
+- Nov 23, 2021 - [Azure Functions CI &amp; CD](https://www.microsoftcloudshow.com/podcast/Episodes/436-azure-functions-ci-cd/)
+- Nov 16, 2021 - [Microsoft Ignite 2021 - Microsoft Azure Recap](https://www.microsoftcloudshow.com/podcast/Episodes/435-microsoft-ignite-2021-microsoft-azure-recap/)
+- Nov 9, 2021 - [Microsoft Ignite 2021 Microsoft 365 Recap](https://www.microsoftcloudshow.com/podcast/Episodes/434-microsoft-ignite-2021-microsoft-365-recap/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
