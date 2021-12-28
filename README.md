@@ -18,11 +18,11 @@ I live with my wife & two kids in Florida.
 
 ## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Aug 31, 2021 - [Back to school! Time to modernize those SPFx projects!](https://www.andrewconnell.com/blog/modernize-your-sharepoint-framework-projects/)
-- Jul 13, 2021 - [Fix the &quot;can&#39;t find custom rule directory: tslint-microsoft-contrib&quot; error in SPFx projects](https://www.andrewconnell.com/blog/spfx-fix-cant-find-custom-rule-directory-tslint-microsoft-contrib/)
-- Jul 7, 2021 - [Update to my Azure Pipelines Templates for SPFx Projects &lpar;v1.3.0&rpar;](https://www.andrewconnell.com/blog/azure-pipeline-spfx-template-1-4/)
-- Jul 5, 2021 - [Microsoft MVP Renewed 17th Year](https://www.andrewconnell.com/blog/microsoft-mvp-renewed-17th-year/)
-- Jul 5, 2021 - [Mastering SharePoint Framework Code Refresh + new React Hooks demo](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-code-refresh-react-hooks/)<!-- MYBLOG-POST-LIST:END -->
+- Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.andrewconnell.com/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)
+- Dec 27, 2021 - [Get answers to your SharePoint Framework questions](https://www.andrewconnell.com/blog/get-answers-sharepoint-framework-questions/)
+- Dec 23, 2021 - [Microsoft Cloud Show - Episode 437 AWS Reinvent Recap](https://www.andrewconnell.com/blog/mscloudshow-437-aws-reinvent-recap/)
+- Dec 23, 2021 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | December 2021](https://www.andrewconnell.com/blog/whats-new-ms600-exam-december-2021/)
+- Dec 23, 2021 - [Microsoft Cloud Show - Episode 436 Azure Functions CI &amp; CD](https://www.andrewconnell.com/blog/mscloudshow-436-azure-functions-ci-cd/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
