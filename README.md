@@ -16,7 +16,7 @@ I live with my wife & two kids in Florida.
 [![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1)
 [![](./images/youtube.svg)](https://www.youtube.com/user/jaconnell)
 
-## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
+## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
 - Feb 3, 2022 - [Microsoft Cloud Show - 444 | Microsoft&#39;s Astronomical Growth, Mainframes in the Cloud &amp; Some News](https://www.andrewconnell.com/blog/mscloudshow-444-microsofts-astronomical-growth-mainframes-in-the-cloud-some-news/)
 - Feb 2, 2022 - [AndrewConnell.com v5 - new year &amp; a new site theme](https://www.andrewconnell.com/blog/a-new-year-a-new-site-theme/)
