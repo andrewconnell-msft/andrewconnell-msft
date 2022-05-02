@@ -32,10 +32,6 @@ I live with my wife & two kids in Florida.
 - Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
 - Oct 11, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.voitanos.io/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
-## 🎙 Latest episodes from [my podcast](https://www.microsoftcloudshow.com)
-<!-- MSCLOUDSHOWBLOG-POST-LIST:START -->
-- Dec 28, 2021 - [Reflecting on 2021](https://www.microsoftcloudshow.com/podcast/Episodes/440-reflecting-on-2021/)
-- Dec 21, 2021 - [Hacks, Crashes and the News](https://www.microsoftcloudshow.com/podcast/Episodes/439-hacks-crashes-and-the-news/)
-- Dec 14, 2021 - [AWS&#39;s Outage, Microsoft Azure News &amp; Microsoft 365 Developer Updates](https://www.microsoftcloudshow.com/podcast/Episodes/438-aws-outage-microsoft-azure-news-microsoft-365-developer-updates/)
-- Dec 7, 2021 - [AWS re:Invent Recap](https://www.microsoftcloudshow.com/podcast/Episodes/437-aws-reinvent-recap/)
-- Nov 23, 2021 - [Azure Functions CI &amp; CD](https://www.microsoftcloudshow.com/podcast/Episodes/436-azure-functions-ci-cd/)<!-- MSCLOUDSHOWBLOG-POST-LIST:END -->
+## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
+<!-- VOITANOSYOUTUBE-POST-LIST:START -->
+<!-- VOITANOSYOUTUBE-POST-LIST:END -->
