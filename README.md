@@ -16,21 +16,21 @@ I live with my wife & two kids in Florida.
 [![](./images/instagram.svg)](https://www.instagram.com/andrewconnell1)
 [![](./images/youtube.svg)](https://www.youtube.com/user/jaconnell)
 
-## 📘 Latest posts from [my person blog](https://www.andrewconnell.com)
+## 📘 Latest posts from [my personal blog](https://www.andrewconnell.com)
 <!-- MYBLOG-POST-LIST:START -->
-- Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.andrewconnell.com/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)
-- Dec 27, 2021 - [Get answers to your SharePoint Framework questions](https://www.andrewconnell.com/blog/get-answers-sharepoint-framework-questions/)
-- Dec 23, 2021 - [Microsoft Cloud Show - Episode 437 AWS Reinvent Recap](https://www.andrewconnell.com/blog/mscloudshow-437-aws-reinvent-recap/)
-- Dec 23, 2021 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | December 2021](https://www.andrewconnell.com/blog/whats-new-ms600-exam-december-2021/)
-- Dec 23, 2021 - [Microsoft Cloud Show - Episode 436 Azure Functions CI &amp; CD](https://www.andrewconnell.com/blog/mscloudshow-436-azure-functions-ci-cd/)<!-- MYBLOG-POST-LIST:END -->
+- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.andrewconnell.com/blog/mastering-sharepoint-framework-course-update-april-2022/)
+- Apr 13, 2022 - [SharePoint Online Modern App Catalog - April 2022](https://www.andrewconnell.com/blog/sharepoint-app-catalog-modernization-april-2022/)
+- Mar 16, 2022 - [SPFx Basics: four &lpar;4&rpar; lesser-known web part manifest properties](https://www.andrewconnell.com/blog/sharepoint-framework-basics-lesser-known-webpart-manifest-properties/)
+- Mar 15, 2022 - [Microsoft Cloud Show - 450 | GoodbyeWorld&lpar;&rpar;; Our last podcast episode](https://www.andrewconnell.com/blog/mscloudshow-450-goodbyeworld-last-Microsoft-cloud-show-episode/)
+- Mar 11, 2022 - [What’s in the first SharePoint Framework v1.15 beta?](https://www.andrewconnell.com/blog/whats-in-sharepoint-framework-v1.15-beta/)<!-- MYBLOG-POST-LIST:END -->
 
 ## 📙 Latest posts from the [Voitanos blog](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
-- Dec 28, 2021 - [Fix SharePoint Framework projects to enable the React DevTools profiler](https://www.voitanos.io/blog/fix-spfx-projects-to-enable-the-react-devtools-profiler/)
-- Dec 21, 2021 - [Webinar: What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | January 2022](https://www.voitanos.io/webinars/whats-new-ms600-exam-january-2022/)
-- Dec 21, 2021 - [What&#39;s new with the MS-600 exam for the Microsoft 365 Dev Cert | December 2021](https://www.voitanos.io/blog/whats-new-ms600-exam-december-2021/)
-- Oct 19, 2021 - [Mastering SharePoint Framework - October 2021 Refresh](https://www.voitanos.io/blog/mastering-sharepoint-framework-starter-bundle-refresh-october-2021/)
-- Oct 11, 2021 - [Learn &#39;What&#39;s the SharePoint Framework is in our new email course!](https://www.voitanos.io/blog/now-available-email-course-explore-evaluate-sharepoint-framework/)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Apr 25, 2022 - [SPFx Basics: Configure NPM for a coporate web proxy](https://www.voitanos.io/blog/node-npm-fix-proxy-config/)
+- Apr 15, 2022 - [April 2022 course update - Mastering the SharePoint Framework](https://www.voitanos.io/blog/mastering-sharepoint-framework-course-update-april-2022/)
+- Apr 12, 2022 - [SharePoint Online Modern App Catalog - April 2022](https://www.voitanos.io/blog/sharepoint-app-catalog-modernization-april-2022/)
+- Mar 10, 2022 - [What’s in the first SharePoint Framework v1.15 beta?](https://www.voitanos.io/blog/whats-in-sharepoint-framework-v1.15-beta/)
+- Mar 8, 2022 - [SPFx Basics: four &lpar;4&rpar; lesser-known web part manifest properties](https://www.voitanos.io/blog/sharepoint-framework-basics-lesser-known-webpart-manifest-properties/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
