@@ -28,10 +28,10 @@ I live with my wife & two kids in Florida.
 
 ## 📺 Latest videos from [my YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 25, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)
 - Feb 10, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/R7G1s_dmRmk)
 - Feb 10, 2026 - [Join me on the SharePoint 25th anniversary event and during the SharePoint Hackathon 2026!
 
 For 25 y](https://www.youtube.com/shorts/bvV9dTfUDYM)
 - Feb 10, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/sy28LXnhr9o)
-- Feb 9, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/NkRiXLA9bWE)
-- Feb 9, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/LptfF4B2Y8g)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 9, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/NkRiXLA9bWE)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
